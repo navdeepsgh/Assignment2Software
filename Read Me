@@ -1,0 +1,22 @@
+Student Details
+
+Name: Navdeep Singh
+Student Id: 40161110
+MEng ECE, Concordia University
+
+Assignment 2 COEN 6311 Software Engineering, Winter 2021
+Deliverable 3
+
+Submitted on 2 April 2021
+
+# Please install requirements
+pip install geopy
+
+# Main Program File
+MainProgram.py
+
+# Emulator File
+Emulator.py
+
+# Observer Subject Design
+Models.py
